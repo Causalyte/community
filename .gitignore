@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node or Python project folders (in case of scripts later)
+node_modules/
+dist/
+venv/
+.env
+
+# IDE configs
+.vscode/
+.idea/
+*.swp
